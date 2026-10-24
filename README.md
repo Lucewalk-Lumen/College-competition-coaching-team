@@ -5,7 +5,7 @@
 > Coaching team for college student competitions — planning, mentoring and stage-gate review
 
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection.
 
 
 ## What it does
