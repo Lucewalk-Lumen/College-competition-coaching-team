@@ -69,6 +69,9 @@ This is an **expert package / skill for the WorkBuddy AI assistant**.
 **Minimal example · 最小示例**
 > 给我们的参赛项目做阶段性评审与改进建议。
 
+
+**Portability · 可移植性** — Delivered for WorkBuddy; won't run as-is elsewhere, but the methodology is documented in plain text and can be re-implemented on another platform. Knowledge is portable even if the runtime isn't.
+
 **More · 更多**
 Full onboarding & per-line guidance: portal [Lucewalk Lumen · 沐光行客](https://github.com/Lucewalk-Lumen/about-me) → "How to use". Issues: open one on this repo.
 
